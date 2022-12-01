@@ -35,7 +35,7 @@
 //  Application Name : Addition of N numbers
 //  Input :     N numbers
 //  Output :    Addition
-//  Author :    Piyush Manohar Khairnar
+//  Author :    Adinath Abarao Chavan
 //  Date :      18 September 2022
 //
 //////////////////////////////////////////////////////////
